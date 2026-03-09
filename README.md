@@ -1,28 +1,37 @@
 <div align="center">
 
-# Armel Plantier
-### BTS SIO • SISR
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f0099,50:7c3aed,100:a855f7&height=280&section=header&text=Armel%20Plantier&fontSize=65&fontColor=ffffff&fontAlignY=42&desc=BTS%20SIO%20%E2%80%A2%20SISR&descAlignY=60&descSize=22&descColor=e9d5ff&animation=fadeIn" />
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Administration+Syst%C3%A8me+%26+R%C3%A9seaux;Infrastructures+Linux+%26+Windows+Server;Cisco+%7C+VPN+%7C+Cybers%C3%A9curit%C3%A9)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=550&lines=🖥️+Administration+Système+%26+Réseaux;🌐+Infrastructures+Linux+%26+Windows+Server;🔒+Cisco+|+VPN+IPSec+|+Cybersécurité;⚙️+Proxmox+|+Hyper-V+|+Virtualisation)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20armel--plantier.com-000000?style=for-the-badge)](https://armel-plantier.com)
+[![Portfolio](https://img.shields.io/badge/🌐%20armel--plantier.com-7c3aed?style=for-the-badge&logoColor=white)](https://armel-plantier.com)
+
+<br/><br/>
 
 </div>
 
 ---
 
-<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### 👤 À propos de moi
 
-Je suis étudiant en **BTS SIO** spécialité **SISR** *(Solutions d'Infrastructure, Systèmes et Réseaux)*.
+Je suis étudiant en **BTS SIO** spécialité **SISR**
+*(Solutions d'Infrastructure, Systèmes et Réseaux)*.
 
-Passionné par les infrastructures IT, je me forme à concevoir, déployer et sécuriser des environnements systèmes et réseaux complexes.
+Passionné par les infrastructures IT, je me forme à concevoir,
+déployer et sécuriser des environnements systèmes et réseaux complexes.
 
 <br/><br/><br/>
 
 ---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:7c3aed,100:4f0099&height=130&section=footer" />
+
+</div>
