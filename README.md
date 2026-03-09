@@ -9,8 +9,6 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐%20armel--plantier.com-%237F8CFF?style=for-the-badge)](https://armel-plantier.com)
-&nbsp;
-![BTS SIO](https://img.shields.io/badge/BTS%20SIO-SISR-1a1a2e?style=for-the-badge&logo=graduation-cap)
 
 </div>
 
@@ -26,25 +24,10 @@ Je suis étudiant en **BTS SIO** spécialité **SISR** *(Solutions d'Infrastruct
 
 Passionné par les infrastructures IT, je me forme à concevoir, déployer et sécuriser des environnements systèmes et réseaux complexes.
 
-- 🖥️ Administration **Windows Server** & **Linux**
-- 🌐 Réseaux **Cisco** — Routage, VLAN, VPN IPSec
-- 🔐 **Cybersécurité** — Attaques & contre-mesures
-- ⚙️ Virtualisation — **Proxmox**, Hyper-V, VirtualBox
-
-<br/>
+<br/><br/><br/>
 
 ---
 
 <div align="center">
-
-### 📊 GitHub Stats
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=armel-plantier&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7f8cff&icon_color=7f8cff" />
-&nbsp;
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=armel-plantier&theme=tokyonight&hide_border=true&background=0d1117&ring=7f8cff&fire=7f8cff&currStreakLabel=7f8cff" />
-
-<br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d0d0d&height=120&section=footer" />
-
 </div>
