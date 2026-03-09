@@ -28,6 +28,10 @@ Je suis étudiant en **BTS SIO** spécialité **SISR**
 Passionné par les infrastructures IT, je me forme à concevoir,
 déployer et sécuriser des environnements systèmes et réseaux complexes.
 
+<br/>
+
+🖥️ **Administration Système** &nbsp;|&nbsp; 🌐 **Administration Réseau** &nbsp;|&nbsp; 🔐 **Cybersécurité** &nbsp;|&nbsp; 🤖 **Intelligence Artificielle**
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,50:7c3aed,100:4f0099&height=3" />
 </div>
