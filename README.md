@@ -4,7 +4,7 @@
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=550&lines=🖥️+Administration+Système+%26+Réseaux;🌐+Infrastructures+Linux+%26+Windows+Server;🔒+Cisco+|+VPN+IPSec+|+Cybersécurité;⚙️+Proxmox+|+Hyper-V+|+Virtualisation)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=550&lines=🖥️+Administration+Système;🌐+Administration+Réseau;🔐+Cybersécurité;🤖+Intelligence+Artificielle)
 
 <br/>
 
@@ -27,10 +27,6 @@ Je suis étudiant en **BTS SIO** spécialité **SISR**
 
 Passionné par les infrastructures IT, je me forme à concevoir,
 déployer et sécuriser des environnements systèmes et réseaux complexes.
-
-<br/>
-
-🖥️ **Administration Système** &nbsp;|&nbsp; 🌐 **Administration Réseau** &nbsp;|&nbsp; 🔐 **Cybersécurité** &nbsp;|&nbsp; 🤖 **Intelligence Artificielle**
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,50:7c3aed,100:4f0099&height=3" />
