@@ -20,8 +20,6 @@
 
 ---
 
-<img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 ### 👤 À propos de moi
 
 Je suis étudiant en **BTS SIO** spécialité **SISR**
