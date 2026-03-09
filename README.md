@@ -9,6 +9,10 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐%20armel--plantier.com-7c3aed?style=for-the-badge&logoColor=white)](https://armel-plantier.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/armel-plantier-9372a2360)
+&nbsp;
+[![Mail](https://img.shields.io/badge/contact@armel--plantier.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@armel-plantier.com)
 
 <br/><br/>
 
