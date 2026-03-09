@@ -17,21 +17,46 @@ Mon cursus me forme à la conception, au déploiement et à la maintenance d'inf
 
 ## Compétences techniques
 
-### Systèmes
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+### Administration Système
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 
-- Administration Linux (Debian, Ubuntu)
-- Administration Windows Server (Active Directory, GPO, DHCP, DNS)
-- Virtualisation (VirtualBox, VMware)
+**Windows Server**
+- Active Directory, GPO, Unités Organisationnelles
+- DHCP, DNS
 
-### Réseaux
+**Linux**
+- Services : DNS, DHCP, LDAP, Samba, FTP, Postfix, Squid, HAProxy
+
+**Virtualisation**
+- Hyper-V, VirtualBox, Proxmox
+
+---
+
+### Réseau
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 
-- Configuration de routeurs et switchs Cisco (IOS)
-- Protocoles réseau : TCP/IP, VLAN, OSPF, NAT
-- Sécurisation des accès (ACL, pare-feu)
-- Câblage et architecture réseau
+**Routeurs**
+- Routage statique et dynamique (RIP)
+- DHCP & Agent relais DHCP
+- ACL, NAT / PAT
+- Tunnel VPN (IPSec)
+
+**Switchs**
+- VLAN, Trunking, VTP
+- Port mirroring
+- Sécurisation SSH / Telnet / 802.1x
+
+---
+
+### Cybersécurité
+
+**Attaques & contre-mesures**
+- DoS SYN Flood → Cisco TCP Intercept
+- MITM SSH via ARP Poisoning
+- Rogue DHCP → DHCP Snooping
 
 ---
 
