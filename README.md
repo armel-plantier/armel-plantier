@@ -16,11 +16,9 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4f0099,100:a855f7&height=6&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f0099,50:7c3aed,100:a855f7&height=60&section=footer" />
 
 </div>
-
-<br/>
 
 ### 👤 À propos de moi
 
@@ -30,10 +28,8 @@ Je suis étudiant en **BTS SIO** spécialité **SISR**
 Passionné par les infrastructures IT, je me forme à concevoir,
 déployer et sécuriser des environnements systèmes et réseaux complexes.
 
-<br/>
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:a855f7,100:4f0099&height=6&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:7c3aed,100:4f0099&height=60&section=header" />
 </div>
 
 <br/>
