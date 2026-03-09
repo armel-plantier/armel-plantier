@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:4f0099,50:7c3aed,100:a855f7&height=25&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4f0099,50:7c3aed,100:a855f7&height=3" />
 
 </div>
 
@@ -29,7 +29,7 @@ Passionné par les infrastructures IT, je me forme à concevoir,
 déployer et sécuriser des environnements systèmes et réseaux complexes.
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:a855f7,50:7c3aed,100:4f0099&height=25&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,50:7c3aed,100:4f0099&height=3" />
 </div>
 
 <br/>
