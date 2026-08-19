@@ -3,7 +3,7 @@
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=550&lines=🔐+Cybersécurité;🌐+Sécurité+des+Réseaux;🛡️+Pentest+%26+Analyse+de+menaces;🤖+Intelligence+Artificielle)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=550&lines=🎓+Licence+Cybersécurité;💼+Alternant+Malakoff+Humanis;🖥️+Administration+Système;🌐+Sécurité+des+Réseaux;🤖+Intelligence+Artificielle)
 
 <br/>
 
